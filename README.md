@@ -3,7 +3,7 @@
 **One-month project** — measure and analyze customer satisfaction at [Supermarket Name].
 
 ## Overview
-- Period: Month Year (e.g., June 2025)
+- Period: Octomber 2025 - November 2025
 - Tools: Python, Jupyter, pandas, scikit-learn, Plotly/Power BI, Google Forms
 - Structure: `data/`, `notebooks/`, `src/`, `reports/`, `dashboard/`, `docs/`
 
