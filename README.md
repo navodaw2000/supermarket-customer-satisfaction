@@ -1,6 +1,6 @@
 # Supermarket Customer Satisfaction
 
-**One-month project** — measure and analyze customer satisfaction at [Supermarket Name].
+One-month project — Customer Satisfaction Analysis of Supermarkets in Sri Lanka
 
 ## Overview
 - Period: Octomber 2025 - November 2025
