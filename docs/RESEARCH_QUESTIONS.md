@@ -1,29 +1,39 @@
-﻿# Research Questions & KPIs
+# 🧠 Research Questions & KPIs
 
-## Primary Research Questions
-1. What is the overall customer satisfaction level across supermarkets in Sri Lanka? (1-5)
-2. Which supermarket chains score highest and lowest on overall satisfaction?
-3. What are the main drivers of customer satisfaction (e.g., price, product availability, staff behavior, cleanliness)?
-4. How does Net Promoter Score (NPS) vary between supermarkets and customer segments?
-5. What actionable recommendations can reduce customer complaints and improve satisfaction?
+## 🎯 Objective
+To analyze **customer satisfaction across supermarkets in all provinces of Sri Lanka**, identifying factors that influence satisfaction levels and customer loyalty.
 
-## Secondary Research Questions
-1. How does satisfaction vary by demographic groups (age, gender)?
-2. Does shopping frequency (daily/weekly/monthly) affect satisfaction?
-3. How does payment method (cash/card/mobile) relate to satisfaction?
-4. Which store sections (produce, dairy, frozen, checkout) have the highest/lowest CSAT?
-5. Is there a relationship between spend amount and satisfaction?
+## 📝 Primary Research Questions
+1. What is the overall level of customer satisfaction among supermarket shoppers in Sri Lanka?  
+2. Which factors (product quality, price fairness, staff behavior, cleanliness, etc.) most strongly influence satisfaction?  
+3. Are there differences in customer satisfaction across **provinces** and **supermarket chains** (Keells, Cargills, Arpico, Laugfs, etc.)?  
+4. How likely are customers to **recommend** their preferred supermarket to others (Net Promoter Score – NPS)?  
+5. What improvements do customers suggest to enhance satisfaction and loyalty?
 
-## Key Performance Indicators (KPIs) to compute
-- **Overall Satisfaction Score (CSAT)**: average of overall satisfaction (1-5 Likert).
-- **Net Promoter Score (NPS)**: %Promoters(9–10) − %Detractors(0–6).
-- **Average Wait Time**: self-reported checkout waiting time (converted to numeric or categorical).
-- **% Repeat Shoppers**: percent of respondents who shop regularly at the same supermarket.
-- **CSAT by Store Section**: average satisfaction per section (produce, dairy, bakery, frozen, checkout).
-- **Complaint Rate**: % respondents who reported a complaint during the visit.
-- **Product Availability Rate**: % respondents who found everything they needed.
-- **Average Basket Value (optional)**: average spend category converted to approximate value.
+## 🔍 Secondary Research Questions
+1. Does satisfaction vary by **age group, gender, or income level**?  
+2. How does the **checkout speed** and **store environment** affect repeat purchases?  
+3. Is there a correlation between **store location (urban vs rural)** and customer satisfaction?  
+4. How does **price perception** influence repeat shopping behavior?  
+5. Are digital services (e.g., loyalty cards, delivery apps) linked to higher satisfaction?
 
-## Notes
-- Use 95% confidence and record sample size per supermarket. 
-- Anonymize any personally identifiable information before publishing data.
+## 📊 Key Performance Indicators (KPIs)
+
+| KPI | Description | Target |
+| --- | --- | --- |
+| **Overall Satisfaction Score (CSAT)** | Average rating (1–5) from survey responses | ≥ 4.0 |
+| **Net Promoter Score (NPS)** | % Promoters − % Detractors | ≥ +30 |
+| **Average Wait Time** | Minutes spent in checkout queue | < 5 minutes |
+| **Repeat Shoppers %** | % of respondents who visit weekly or more | ≥ 60% |
+| **CSAT by Store Section** | Satisfaction per area (fresh produce, cashier, etc.) | ≥ 4.0 each |
+| **Complaint Rate** | % of customers reporting dissatisfaction | ≤ 10% |
+| **Province Comparison Index** | Satisfaction variation across provinces | Monitor |
+| **Staff Friendliness Index** | Average staff satisfaction score | ≥ 4.0 |
+
+---
+
+## 📈 Expected Outcome
+The results will help identify:
+- Which supermarkets perform best in each province.  
+- Which factors drive loyalty and customer satisfaction.  
+- Recommendations for improving service quality and customer experience.
