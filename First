@@ -1,0 +1,12 @@
+data/
+  raw/
+  processed/
+notebooks/ 
+src/
+reports/
+dashboard/
+docs/
+.gitignore
+LICENSE
+README.md
+
