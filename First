@@ -1,4 +1,6 @@
 data/
+  raw/
+  processed/
 notebooks/
 src/
 reports/
