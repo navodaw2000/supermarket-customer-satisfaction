@@ -5,7 +5,7 @@ import pandas as pd
 file_path = "data/raw/Form_Responses.csv"
 df = pd.read_csv(file_path)
 
-# Step 3: Quick overview of the data
+# Step 3: Quick overview of the data 
 print("First 5 rows:")
 print(df.head())
 print("\nData info:")
