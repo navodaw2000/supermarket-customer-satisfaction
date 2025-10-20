@@ -1,7 +1,7 @@
 data/
   raw/
   processed/
-notebooks/
+notebooks/ 
 src/
 reports/
 dashboard/
